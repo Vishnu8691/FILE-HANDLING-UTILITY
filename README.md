@@ -42,5 +42,8 @@ The program presents a simple menu-driven interface, making it easy for users to
 
 Clear prompts guide users on how to interact with the program.
 
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/e322ea6a-d48b-4900-bdf7-9128d1e03838)
 
 
